@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FzFStormZ)
 
-# Best of my project :
+# Best projects :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FzFStormZ&repo=Fuzzing-Bug-Depth-Evaluation-Internship)](https://github.com/FzFStormZ/Fuzzing-Bug-Depth-Evaluation-Internship)
 
