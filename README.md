@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FzFStormZ&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FzFStormZ)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FzFStormZ)
 
 # Best of my project :
 
