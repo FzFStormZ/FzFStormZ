@@ -13,5 +13,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Achieve `Pre security`, `Intro to Cyber Security` & `Jr Penetration Security` learning paths<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **20%** completing (no certifs for now)
 - `👾` **`Root-Me`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the top 1000!<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **#6148** (05/11/2024)
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the `Insider` rank (around 2346 points)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **1795** points (05/11/2024)
