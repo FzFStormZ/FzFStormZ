@@ -1,14 +1,17 @@
-# FzF_StormZ stats profile !
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=71EAFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=540&height=40&lines=Learning+malware+development;Breaking+THM+boxes;Completing+root-me+challenges)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FzFStormZ&show_icons=true&theme=dark)
+💭 **Me**: Cybersecurity student focusing on malware development, forensic and every CTF stuffs like THM, root-me, etc.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FzFStormZ)
+📚 **Blog**: I'm currently documenting my progress on some projects on my blog which you can find [here](https://meitoka.gitbook.io/meitoka-blog).
 
-# Best projects :
+🎯 **Goals**: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FzFStormZ&repo=Fuzzing-Bug-Depth-Evaluation-Internship)](https://github.com/FzFStormZ/Fuzzing-Bug-Depth-Evaluation-Internship)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FzFStormZ&repo=EdgeSurfBOT)](https://github.com/FzFStormZ/EdgeSurfBOT)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FzFStormZ&repo=Diabetix)](https://github.com/FzFStormZ/Diabetix)
-
+- `☢️` **`Malware Development`**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Follow the complete series for maldev of [crow](https://www.crow.rip/crows-nest/mal/dev)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **10%** completing
+- `🎮` **`TryHackMe`**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Complet `Pre security`, `Intro to Cyber Security` & `Jr Penetration Security` learning paths<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **20%** completing (no certifs for now)
+- `👾` **`Root-Me`**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the top 1000!<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **#6148** (05/11/2024)
