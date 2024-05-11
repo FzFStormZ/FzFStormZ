@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=71EAFF&background=FFFFFF00&center=true&vCenter=true&random=false&width=540&height=40&lines=Learning+malware+development;Breaking+THM+boxes;Completing+root-me+challenges)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=71EAFF&background=FFFFFF00&vCenter=true&random=false&width=540&height=40&lines=Learning+malware+development;Breaking+TryHackMe+boxes;Completing+root-me+challenges)](https://git.io/typing-svg)
 
 💭 **Me**: Cybersecurity student focusing on malware development, forensic and every CTF stuffs like THM, root-me, etc.
 
