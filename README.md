@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Follow the complete series for maldev of [crow](https://www.crow.rip/crows-nest/mal/dev)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **10%** completing
 - `🎮` **`TryHackMe`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Complet `Pre security`, `Intro to Cyber Security` & `Jr Penetration Security` learning paths<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Achieve `Pre security`, `Intro to Cyber Security` & `Jr Penetration Security` learning paths<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **20%** completing (no certifs for now)
 - `👾` **`Root-Me`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the top 1000!<br>
