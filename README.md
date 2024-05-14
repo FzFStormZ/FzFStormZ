@@ -10,8 +10,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Follow the complete series for maldev of [crow](https://www.crow.rip/crows-nest/mal/dev)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **10%** completing
 - `🎮` **`TryHackMe`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Achieve `Pre security`, `Intro to Cyber Security`, `Jr Penetration Security` & `Offensive Security` learning paths<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **20%** completing (no certifs yet)
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Achieve ~~`Pre security`~~, ~~`Intro to Cyber Security`~~, `Cyber Defense`, `Jr Penetration Security` learning paths<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **30%** completing (currently on `Cyber Defense`)
 - `👾` **`Root-Me`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the `Insider` rank (around 2346 points)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **1795** points (05/11/2024)
