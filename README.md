@@ -8,10 +8,17 @@
 
 - `☢️` **`Malware Development`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Follow the complete series for maldev of [crow](https://www.crow.rip/crows-nest/mal/dev)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **10%** completing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **10%** completing (pending project)
 - `🎮` **`TryHackMe`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Achieve ~~`Pre security`~~, ~~`Intro to Cyber Security`~~, `Cyber Defense`, `Jr Penetration Security` learning paths<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **30%** completing (currently on `Cyber Defense`)
-- `👾` **`Root-Me`**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Currently on the `Offensive Pentesting` learning path<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **44%** completing
+- `🫚` **`Root-Me`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the `Insider` rank (around 2346 points)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **1795** points (05/11/2024)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **1900** points (07/18/2024)
+- `🔖` **`Certifications`**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Aim to get the [eJPT](https://security.ine.com/certifications/ejpt-certification/) certification<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **0%** completing (start at the end of the year/begin of the next year)
+
+:trophy: **Badges**:
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/FzFStormZ.png" alt="TryHackMe">
