@@ -21,4 +21,5 @@
 
 :trophy: **Badges**:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/FzFStormZ.png" alt="TryHackMe">
+![image](https://github.com/user-attachments/assets/b6288dd2-0eb8-4e93-98b7-7ab22acf662a)
+
