@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the `Insider` rank (around 2346 points)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **1900** points (07/18/2024)
 - `🔖` **`Certifications`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Aim to get the [PJPT](https://certifications.tcm-sec.com/pjpt/)
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Aim to get the [PJPT](https://certifications.tcm-sec.com/pjpt/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **0%** completing (start at the end of the year/begin of the next year)
 
 :trophy: **Badges**:
