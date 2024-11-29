@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=71EAFF&background=FFFFFF00&vCenter=true&random=false&width=540&height=40&lines=Learning+malware+development;Breaking+TryHackMe+boxes;Completing+root-me+challenges)](https://git.io/typing-svg)
 
-💭 **Me**: French cybersecurity enthusiast focusing on malware development, forensic and every CTF stuffs like THM, root-me, etc.
+💭 **Me**: French cybersecurity enthusiast focusing on malware development, forensic and every CTF stuffs like THM (top 1%), root-me, etc.
 
 📚 **Blog**: I'm currently documenting my progress on some projects on my blog which you can find [here](https://meitoka.gitbook.io/meitoka-blog).
 
@@ -20,6 +20,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **0%** completing (start at the end of the year/begin of the next year)
 
 :trophy: **Badges**:
+
+29/11/2024 -> THM Top 1% World!
 
 ![image](https://tryhackme-badges.s3.amazonaws.com/FzFStormZ.png)
 
