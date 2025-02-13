@@ -2,26 +2,19 @@
 
 💭 **Me**: French cybersecurity enthusiast focusing on malware development, forensic and every CTF stuffs like THM (top 1%), root-me, etc.
 
-📚 **Blog**: I'm currently documenting my progress on some projects on my blog which you can find [here](https://meitoka.gitbook.io/meitoka-blog).
+📚 **Personal website**: I'm currently documenting my progress on some projects and doing other stuffs [here](https://fzfstormz.github.io/). You can access to my GitBook from the website or from [here](https://meitoka.gitbook.io/stash)
 
-🎯 **Goals**: 
+🎯 **Goals 2025**: 
 
 - `☢️` **`Malware Development`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Follow the complete series for maldev of [crow](https://www.crow.rip/crows-nest/mal/dev)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **10%** completing (pending project)
-- `🎮` **`TryHackMe`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Doing the `Jr Penetration Tester`,`Web Fundamentals` and `Offensive Pentesting` learning path<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **100%** completing
+- `🎮` **`HackTheBox`**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Doing the `Penetration Tester` Job Role path (CPTS goal)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **1%** completing
 - `🫚` **`Root-Me`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the `Insider` rank (around 2346 points)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **1900** points (07/18/2024)
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the `Insider` rank (around 2453 points)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **2135** points (02/13/2025)
 - `🔖` **`Certifications`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Aim to get the [PJPT](https://certifications.tcm-sec.com/pjpt/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **0%** completing (start at the end of the year/begin of the next year)
-
-:trophy: **Badges**:
-
-29/11/2024 -> THM Top 1% World!
-
-![image](https://tryhackme-badges.s3.amazonaws.com/FzFStormZ.png)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **100%** completing: obtained in January 2025
