@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **10%** completing (pending project)
 - `🎮` **`HackTheBox`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Doing the `Penetration Tester` Job Role path (CPTS goal)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **1%** completing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **25%** completing
 - `🫚` **`Root-Me`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the `Insider` rank (around 2453 points)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **2135** points (02/13/2025)
