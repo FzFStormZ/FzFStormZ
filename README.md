@@ -4,17 +4,15 @@
 
 📚 **Personal website**: I'm currently documenting my progress on some projects and doing other stuffs [here](https://fzfstormz.github.io/). You can access to my GitBook from the website or from [here](https://meitoka.gitbook.io/stash)
 
-🎯 **Goals 2025**: 
+🎯 **Goals 2026**: 
 
-- `☢️` **`Projects`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Create some personals projects (DevSecOps, AppSec, SOC homelab) on [GitLab](https://gitlab.com/users/Meitoka/projects)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **50%** completing
 - `🎮` **`HackTheBox`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Doing the `Penetration Tester` Job Role path (CPTS goal)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **90%** completing
-- `🫚` **`Root-Me`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Reach the `Insider` rank (around 2453 points)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 Currently at **2265** points (09/09/2025)
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Finish Dante & Zephyr Pro Labs (target April 2026)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **0%**
 - `🔖` **`Certifications`**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Aim to get the [PJPT](https://certifications.tcm-sec.com/pjpt/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **100%** completing: obtained in January 2025
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Get the CPTS certification from Hack the Box (target May 2026)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **80%** (Dante + last module from the CPTS path)
+
+&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Get the OSCP certificatioon (target June 2026)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **0%**
+
