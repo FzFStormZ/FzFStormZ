@@ -12,7 +12,6 @@
 - `🔖` **`Certifications`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Get the CPTS certification from Hack the Box (target May 2026)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **80%** (Dante + last module from the CPTS path)
-
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Get the OSCP certificatioon (target June 2026)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **0%**
 
