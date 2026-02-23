@@ -4,7 +4,7 @@
 
 📚 **Personal website**: I'm currently documenting my progress on some projects and doing other stuffs [here](https://fzfstormz.github.io/). You can access to my GitBook from the website or from [here](https://meitoka.gitbook.io/stash)
 
-🎯 **Goals 2026**: 
+🎯 **Goals 2026 (1st semester)**: 
 
 - `🎮` **`HackTheBox`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Finish Dante & Zephyr Pro Labs (target April 2026)<br>
@@ -12,6 +12,3 @@
 - `🔖` **`Certifications`**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Get the CPTS certification from Hack the Box (target May 2026)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **80%** (Dante + last module from the CPTS path)
-&nbsp;&nbsp;&nbsp;&nbsp;\\___[+] Get the OSCP certificatioon (target June 2026)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ 🔋 **0%**
-
